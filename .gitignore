@@ -1,0 +1,23 @@
+# .NET build and package artifacts
+**/bin/
+**/obj/
+**/TestResults/
+artifacts/
+publish/
+*.user
+*.suo
+*.nupkg
+
+# IDE/editor files
+.vs/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Renderer outputs
+**/icon-renders/
+**/rendered-icons/
+
+# Local browser preset data (normally stored outside the repository)
+icon-presets.json
